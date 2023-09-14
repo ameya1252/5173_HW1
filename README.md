@@ -20,3 +20,5 @@ To replicate the results and analysis presented in this assignment, follow these
    ```bash
    git clone https://github.com/your-username/deep-learning-hw1.git
 
+2. Run the Jupyter Notebook and change the arguments in the "test_model" function to test the model.
+
